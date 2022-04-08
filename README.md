@@ -1,3 +1,6 @@
+Pet Project: Todo-list,
+react, redux, redux-saga, axios, bootstrap, scss
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
